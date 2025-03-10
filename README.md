@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello 👋
+
+Welcome to my sandbox where I experiment with ideas that spark my curiosity. 
+
+I'm PM with a passion for data, analytics, and emerging tech. Connect with me on [LinkedIn](https://www.linkedin.com/in/khangle3/)
+
 
 <!--
 **shibahmm/shibahmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
