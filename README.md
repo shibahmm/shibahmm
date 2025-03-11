@@ -1,6 +1,6 @@
 ## Hello 👋
 
-Welcome to my sandbox where I experiment with ideas that spark my curiosity. 
+Welcome to my sandbox where I experiment with ideas that spark my curiosity (anything statistic!). 
 
 I'm technical PM with a passion for data, analytics, and emerging tech. Connect with me on [LinkedIn](https://www.linkedin.com/in/khangle3/)
 
