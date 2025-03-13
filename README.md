@@ -2,7 +2,7 @@
 
 Welcome to my sandbox where I experiment with ideas that spark my curiosity (anything statistic!). 
 
-I have a passion for data, analytics, and emerging tech. Connect with me on [LinkedIn](https://www.linkedin.com/in/khangle3/)
+I have a passion for data, analytics, and emerging tech. Connect with me via [Email](khanglegia11@gmail.com) and [LinkedIn](https://www.linkedin.com/in/khangle3/) 
 
 
 <!--
